@@ -2,7 +2,8 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikotty&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hikotty&show_icons=ture" />
+  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hikotty&theme=2077"/>
+<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hikotty&theme=2077) -->
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hikotty&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
